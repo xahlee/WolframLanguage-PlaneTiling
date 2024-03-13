@@ -22,4 +22,4 @@ This package is sponsored by Wolfram Research.
 
 # gallery
 
-!(starSky_2024-03-12_gyds.png)
+![starSky](starSky_2024-03-12_gyds.png)
