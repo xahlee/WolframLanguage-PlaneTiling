@@ -22,4 +22,15 @@ This package is sponsored by Wolfram Research.
 
 # gallery
 
+![example](plane_tiling_mathematica_2016-05-04_35001.png)
+
 ![starSky](starSky_2024-03-12_gyds.png)
+![example](plane_tiling_2024-03-12_233921.png)
+![example](plane_tiling_2024-03-12_233934.png)
+![example](plane_tiling_2024-03-12_233952.png)
+![example](plane_tiling_2024-03-12_234055.png)
+![example](plane_tiling_2024-03-12_234143.png)
+![example](plane_tiling_2024-03-12_234234.png)
+![example](plane_tiling_2024-03-12_234300.png)
+![example](plane_tiling_2024-03-12_234639.png)
+![example](plane_tiling_2024-03-12_234712.png)
