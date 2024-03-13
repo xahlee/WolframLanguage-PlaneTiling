@@ -1,4 +1,4 @@
-PlaneTiling.wl is a package for Wolfram language / Mathematica for for generating all possible wallpaper designs, periodic tilings, plane group symmetry illustrations.
+PlaneTiling.wl is a package for Wolfram language / Mathematica for generating all possible wallpaper designs, periodic tilings, plane group symmetry illustrations.
 
 PlaneTiling.wl
 is the code.
@@ -19,3 +19,7 @@ Home page url:
 http://xahlee.info/MathGraphicsGallery_dir/PlaneTilingPackageDemo_dir/planeTilingPackageDemo.html
 
 This package is sponsored by Wolfram Research.
+
+# gallery
+
+!(starSky_2024-03-12_gyds.png)
